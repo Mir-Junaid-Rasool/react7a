@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "John Doe", "grade": "A" },
+    { "id": 2, "name": "Jane Smith", "grade": "B+" },
+    { "id": 3, "name": "Alice Johnson", "grade": "A-" }
+  ]
+  
